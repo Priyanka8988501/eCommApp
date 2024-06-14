@@ -1,0 +1,14 @@
+C:\Users\priya\source\repos\eCommApp\eCommApp\bin\Debug\net6.0\eCommApp.exe
+C:\Users\priya\source\repos\eCommApp\eCommApp\bin\Debug\net6.0\eCommApp.deps.json
+C:\Users\priya\source\repos\eCommApp\eCommApp\bin\Debug\net6.0\eCommApp.runtimeconfig.json
+C:\Users\priya\source\repos\eCommApp\eCommApp\bin\Debug\net6.0\eCommApp.dll
+C:\Users\priya\source\repos\eCommApp\eCommApp\bin\Debug\net6.0\eCommApp.pdb
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.AssemblyInfoInputs.cache
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.AssemblyInfo.cs
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.dll
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\refint\eCommApp.dll
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.pdb
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\eCommApp.genruntimeconfig.cache
+C:\Users\priya\source\repos\eCommApp\eCommApp\obj\Debug\net6.0\ref\eCommApp.dll
